@@ -1,16 +1,31 @@
-### Hi there 👋
+| 这个作业属于哪个课程 | [ 软件工程 ] (https://edu.cnblogs.com/campus/gdgy/informationsecurity1812) |
+| ----------------- |--------------- |
+| 这个作业要求在哪里 | [ 自我介绍+软工五问 ] (https://edu.cnblogs.com/campus/gdgy/informationsecurity1812/homework/11156) |
+| 这个作业的目标 | 熟悉markdown以及GitHub的使用，运用学习的知识设计软件，培养写博客的习惯 |
 
-<!--
-**gc922/gc922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 自我介绍
 
-Here are some ideas to get you started:
+> 1. 姓名：罗耿城
+> 2. 班级：18级计算机学院信安一班
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 3. 学号：3118005376
+
+> 4. 兴趣爱好：音乐，看书
+
+> 5. 邮箱：1873699242@qq.com
+
+> 6. github：https://github.com/gc922
+# 软工五问
+> 1. 如何开发一个软件
+
+> 2. 如何对软件进行合理完善的测试，使软件上市不会出现问题
+
+> 3. 面向对象语言有什么优劣处
+
+> 4. 软件的可维护性该如何实现
+
+> 5. 一个好的软件应该具备哪些要素
+
+# 想得到的收获
+
+> 了解一个软件的开发过程，并学会试着开发一个实用的软件
